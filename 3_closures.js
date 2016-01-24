@@ -1,5 +1,5 @@
 /**************************************************************
- * Closures
+ * CLOSURES
  * Function remembers the enviroment in which it was created,
  * giving it access to the variables within this environment
  * no matter where the function is executed
